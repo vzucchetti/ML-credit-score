@@ -66,7 +66,7 @@ The project follows a structured approach:
 
 1. Clone the repository:
 ```
-git clone https://github.com/[your-username]/[your-repository-name].git
+git clone https://github.com/vzucchetti/ML-credit-score.git
 ```
 2. Install the required libraries:
 ```
