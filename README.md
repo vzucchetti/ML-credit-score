@@ -1,11 +1,7 @@
 # Credit Scoring with Machine Learning in Python
-### Building an Automated Credit Score Prediction Model
-
-This repository contains a Python project focused on building a machine learning model to predict credit scores for bank clients. The project was undertaken as part of the "Python Journey" crash course offered by Hashtag and demonstrates a practical application of AI in finance.
-
 ## Project Overview
 
-Manually assessing credit scores can be time-consuming and subjective. This project aims to automate the process by developing an AI model that can analyze client information and accurately predict their creditworthiness. The goal is to classify clients into credit score categories: POOR, STANDARD, and GOOD.
+This repository contains a Python project focused on building a machine learning model to predict credit scores for bank clients. Manually assessing credit scores can be time-consuming and subjective. This project aims to automate the process by developing an AI model that can analyze client information and accurately predict their creditworthiness. The goal is to classify clients into credit score categories: POOR, STANDARD, and GOOD.
 
 ## Dataset
 
@@ -62,7 +58,7 @@ The project follows a structured approach:
     - ``KNeighborsClassifier``: To build the KNN model.
     - ``accuracy_score``: To evaluate model performance.
 
-## ow to Run the Project
+## How to Run the Project
 
 1. Clone the repository:
 ```
